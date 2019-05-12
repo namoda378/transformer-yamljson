@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "@gridsome/transformer-yamljson",
+  "name": "transformer-yamljson",
   "description": "Yaml to json string transformer for Gridsome",
   "repository": "https://github.com/namoda378/transformer-yamljson",
   "main": "index.js",
