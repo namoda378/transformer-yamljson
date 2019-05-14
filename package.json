@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "name": "@gridsome/transformer-yamljson",
+  "description": "Yaml to json string transformer for Gridsome",
+  "repository": "https://github.com/namoda378/transformer-yamljson",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-transformer",
+    "yaml"
+  ],
+  "dependencies": {
+    "js-yaml": "^3.12.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
